@@ -4,6 +4,12 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 
 ---
 
+## 💻 Live Demo
+
+- [⛓️‍💥 Demo](https://web-weather-app-one.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 - Search for current weather by city
