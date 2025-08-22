@@ -10,6 +10,14 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/weather-app.png" width="600">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Search for current weather by city
