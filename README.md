@@ -14,7 +14,7 @@
 - ⚠️ [Notes](#notes)
 - 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 📜 [License](#license)
-- 👨🏻‍💻 [Author](#author--acknowledgments--contact) / 🙏🏻 [Acknowledgments](#author--acknowledgments--contact) / 📩 [Contact](#author--acknowledgments--contact)
+- 👨🏻‍💻 [Author](#author--contact) / 📩 [Contact](#author--contact)
 - 💰 [Support Me!](#if-you-want-to-support-me)
 
 ---
@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 
 ---
 
-## Author / Acknowledgments / Contact
+## Author / Contact
 **Author:** 
 Andrei Iliescu
 
