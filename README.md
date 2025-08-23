@@ -61,16 +61,16 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 
 ## Project Structure
 - 🗂️ Web Weather App
-- ├── index.html              # Main HTML file
-- ├── style.css               # UI styling and layout
-- ├── script.js               # JS logic using QRCode.toCanvas
-- ├── assets/images           # Backgound Image
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── assets/images
 - │   └── bg1.jpg             
-- ├── screenshots/            # Screenshots to display on GitHub repo
+- ├── screenshots/
 - │   └── weather-app.png
-- ├── .gitignore              # Git exclusions
-- ├── LICENSE                 # Open-source license (MIT)
-- └── README.md               # Documentation
+- ├── .gitignore
+- ├── LICENSE
+- └── README.md
 <!-- ## Requirements -->
 
 ---
