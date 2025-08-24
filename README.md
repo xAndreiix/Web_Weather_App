@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -19,7 +19,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A responsive weather application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to search for real-time weather conditions by city name using the WeatherAPI service.
 <!-- ## Badges -->
 
