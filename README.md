@@ -32,7 +32,13 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/weather-app.png" width="600">
+  <img src="screenshots/webpage-weather-app-mockup.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/weather-app-mockup.png" width="600">
 </p>
 
 ---
@@ -67,7 +73,8 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 - ├── assets/images
 - │   └── bg1.jpg             
 - ├── screenshots/
-- │   └── weather-app.png
+- │   └── weather-app-mockup.png
+- │   └── webpage-weather-app-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
